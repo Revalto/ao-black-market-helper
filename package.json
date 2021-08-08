@@ -1,0 +1,19 @@
+{
+  "name": "ao-black-market-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ao-network": "^2.0.0"
+  },
+  "devDependencies": {
+    "electron": "^13.1.8",
+    "electron-rebuild": "^2.3.5"
+  }
+}
