@@ -6,6 +6,8 @@ Black Market Assistant. An example of using ao-network (https://github.com/Reval
 
 The point of this application is that the program itself calculates the profit and remembers the profitable offers. You just have to click the mouse and move between the markets
 
+![изображение](https://user-images.githubusercontent.com/43722954/128632825-8890bc43-8d33-4f2f-bc6a-0ff9119a55f8.png)
+
 
 Instructions
 ===========
